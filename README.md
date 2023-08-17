@@ -4,7 +4,9 @@
 I highly recommend [Novus Launcher](https://www.nexusmods.com/mountandblade2bannerlord/mods/4924?tab=files&file_id=32559) to sort your mods.   
 Unzip and copy Novus folder into steam/steamapps/common/Mount & Blade II: Bannerlord and run the Novus Launcher exe.    
 
-## Load Order with Links
+## Load Order with Links  
+<img align="right" width="225" height="375" src="https://github.com/Knightfall-dh/Knightfall1.1.3/blob/main/images/spearguy.png?raw=true">   
+
 [Harmony](https://www.nexusmods.com/mountandblade2bannerlord/mods/2006?tab=files&file_id=35965) ignore the BLSE popup  
 [Better Exception Window](https://www.nexusmods.com/mountandblade2bannerlord/mods/404?tab=files&file_id=33394)   
 [ButterLib](https://www.nexusmods.com/mountandblade2bannerlord/mods/2018?tab=files&file_id=36667)   
