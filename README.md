@@ -2,7 +2,7 @@
 # <h1 align="center" id="heading">Anno Domini 1259 Installation Guide for Bannerlord 1.1.5</h1>
 
 I highly recommend [Novus Launcher](https://www.nexusmods.com/mountandblade2bannerlord/mods/4924?tab=files&file_id=32559) to sort your mods.   
-Unzip and copy Novus folder into steam/steamapps/common/Mount & Blade II: Bannerlord and run the Novus Launcher exe   
+Unzip and copy Novus folder into steam/steamapps/common/Mount & Blade II: Bannerlord and run the Novus Launcher exe.    
 
 ## Load Order with Links
 [Harmony](https://www.nexusmods.com/mountandblade2bannerlord/mods/2006?tab=files&file_id=35965) ignore the BLSE popup  
@@ -32,3 +32,4 @@ Drag the contents of the music folder into \Mount Blade II Bannerlord\music and 
 
 ## THE END
 
+Check out "[Knightfall](https://www.nexusmods.com/mountandblade2bannerlord/mods/5451)" if you want Realistic Battle Mod intigration.
