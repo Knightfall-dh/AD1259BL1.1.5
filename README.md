@@ -1,11 +1,16 @@
 ![](https://github.com/Knightfall-dh/AD1259BL1.1.5/blob/main/png/1259.png?raw=true)
 # <h1 align="center" id="heading">Anno Domini 1259 Installation Guide for Bannerlord 1.1.5</h1>
-### <h3 align="center" id="heading"> by Ingrimsch6234 aka d&h</h3>
-I highly recommend [Novus Launcher](https://www.nexusmods.com/mountandblade2bannerlord/mods/4924?tab=files&file_id=32559) to sort your mods and run Bannerlord.   
-Unzip and copy Novus folder into `steam/steamapps/common/Mount & Blade II: Bannerlord` and run the Novus Launcher exe.    
+#### <h3 align="center" id="heading"> by Ingrimsch6234 aka d&h</h3>
+### I highly recommend [Novus Launcher](https://www.nexusmods.com/mountandblade2bannerlord/mods/4924?tab=files&file_id=32559) to sort your mods and run Bannerlord.   
+#### Unzip and copy Novus folder into `steam/steamapps/common/Mount & Blade II: Bannerlord` and run the Novus Launcher exe.    
+
+#### All mods have to be unzipped and copied to your M&B modules folder. 
+### Best is to use [7zip](https://7-zip.org/a/7z2301-x64.exe), so you don't need to unblock dll files.
 
 ## Load Order with Links  
-<img align="right" width="225" height="375" src="https://github.com/Knightfall-dh/Knightfall1.1.3/blob/main/images/spearguy.png?raw=true">   
+<img align="right" width="225" height="375" src="https://github.com/Knightfall-dh/Knightfall1.1.3/blob/main/images/spearguy.png?raw=true"> 
+
+
 
 [Harmony](https://www.nexusmods.com/mountandblade2bannerlord/mods/2006?tab=files&file_id=35965) ignore the BLSE popup  
 [Better Exception Window](https://www.nexusmods.com/mountandblade2bannerlord/mods/404?tab=files&file_id=33394)   
