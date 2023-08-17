@@ -2,7 +2,7 @@
 # <h1 align="center" id="heading">Anno Domini 1259 Installation Guide for Bannerlord 1.1.5</h1>
 ### <h3 align="center" id="heading"> by Ingrimsch6234 aka d&h</h3>
 I highly recommend [Novus Launcher](https://www.nexusmods.com/mountandblade2bannerlord/mods/4924?tab=files&file_id=32559) to sort your mods and run Bannerlord.   
-Unzip and copy Novus folder into steam/steamapps/common/Mount & Blade II: Bannerlord and run the Novus Launcher exe.    
+Unzip and copy Novus folder into `steam/steamapps/common/Mount & Blade II: Bannerlord` and run the Novus Launcher exe.    
 
 ## Load Order with Links  
 <img align="right" width="225" height="375" src="https://github.com/Knightfall-dh/Knightfall1.1.3/blob/main/images/spearguy.png?raw=true">   
