@@ -24,10 +24,12 @@ BirthAndDeath 1.1.5
 Sandbox 1.1.5  
 StoryMode 1.1.5  
 [BannerColorPersistence](https://www.nexusmods.com/mountandblade2bannerlord/mods/2637?tab=files&file_id=33822)  
+#### IF YOU USE RBM PUT IT HERE
 [ExpandedArmouryBL](https://www.nexusmods.com/mountandblade2bannerlord/mods/5317?tab=files&file_id=34273)  
 [OpenSourceArmory](https://www.nexusmods.com/mountandblade2bannerlord/mods/2829?tab=files&file_id=36825)  
 [OpenSourceWeaponry](https://www.nexusmods.com/mountandblade2bannerlord/mods/2829?tab=files&file_id=36829)  
 [OpenSourceSaddlery](https://www.nexusmods.com/mountandblade2bannerlord/mods/2829?tab=files&file_id=36826)  
+#### YOUR MODS
 [SettlementIconRedesign](https://www.nexusmods.com/mountandblade2bannerlord/mods/2717?tab=files&file_id=33451) Drag the file 'mapConfig.json' into Modules\SettlementIconRedesign **-AD1259 Optional files-**   
 [PocColor](https://www.nexusmods.com/mountandblade2bannerlord/mods/792?tab=files&file_id=36123) Drag the file 'config.json' into Modules\PocColor and replace **-AD1259 Optional files-**      
 [CustomSpawns](https://www.nexusmods.com/mountandblade2bannerlord/mods/411?tab=files&file_id=34612)  
