@@ -1,5 +1,5 @@
 ![](https://github.com/Knightfall-dh/AD1259BL1.1.5/blob/main/png/1259.png?raw=true)
-# <h1 align="center" id="heading">Anno Domini 1259 Installation Guide for Bannerlord 1.1.5</h1>
+# <h1 align="center" id="heading">Anno Domini 1259 Installation Guide for Bannerlord 1.1.6</h1>
 #### <h4 align="center" id="heading"> by Ingrimsch6234 aka d&h</h4>  
 
 #### All mods have to be unzipped and copied to your M&B modules folder. 
