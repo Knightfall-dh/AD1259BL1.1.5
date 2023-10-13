@@ -37,5 +37,3 @@ StoryMode 1.1.6
 Drag the contents of the music folder into \Mount Blade II Bannerlord\music and don't forget to backup your soundtrack.xml  
 
 ## THE END
-
-Check out "[Knightfall](https://www.nexusmods.com/mountandblade2bannerlord/mods/5451)" if you want Realistic Battle Mod intigration.
