@@ -6,7 +6,7 @@
 ### Best is to use [7zip](https://7-zip.org/a/7z2301-x64.exe), so you don't need to unblock dll files.
 
 ## Load Order with Links  
-<img align="right" width="225" height="375" src="https://github.com/Knightfall-dh/Knightfall1.1.3/blob/main/images/spearguy.png?raw=true"> 
+<img align="right" width="225" height="355" src="https://github.com/Knightfall-dh/Knightfall1.1.3/blob/main/images/spearguy.png?raw=true"> 
 
 
 
