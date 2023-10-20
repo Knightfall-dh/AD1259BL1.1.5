@@ -34,7 +34,7 @@ StoryMode 1.1.6
 [OpenSourceSaddlery](https://www.nexusmods.com/mountandblade2bannerlord/mods/2829?tab=files&file_id=37815)   
 [OpenSourceArmory](https://www.nexusmods.com/mountandblade2bannerlord/mods/2829?tab=files&file_id=37817) RBM patch, handeld like a mod (3x)  
 ## YOUR MODS
-[SettlementIconRedesign](https://www.nexusmods.com/mountandblade2bannerlord/mods/2717?tab=files&file_id=33451) Drag the file 'mapConfig.json' into Modules\SettlementIconRedesign **-AD1259 Optional files-** 
+[SettlementIconRedesign](https://www.nexusmods.com/mountandblade2bannerlord/mods/2717?tab=files&file_id=33451) Drag the file 'mapConfig.json' into Modules\SettlementIconRedesign **-AD1259 Optional files-**    
 [PocColor](https://www.nexusmods.com/mountandblade2bannerlord/mods/5595?tab=files&file_id=35800)    
 [PocColor config](https://drive.google.com/file/d/1a-MtjwsGu56-WXmRPZOaZoPY-vgE00gJ/view?usp=sharing) Drag the file 'config.json' into Modules\PocColor and replace  
 [CustomSpawnsAPI](https://www.nexusmods.com/mountandblade2bannerlord/mods/411?tab=files&file_id=34612)  
