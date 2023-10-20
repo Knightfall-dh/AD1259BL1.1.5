@@ -43,7 +43,7 @@ StoryMode 1.1.6
 [AD1259 RBM patch](https://www.nexusmods.com/mountandblade2bannerlord/mods/5474?tab=files&file_id=34991) manual install overwrite 1259assets.xml  
 [Armies of Europe](https://www.nexusmods.com/mountandblade2bannerlord/mods/5861?tab=files&file_id=37361) manual install overwrite `cultures; npc; PartyTemplates; troops` but make sure you only change the required files not the whole folders.  
 [Armies of Europe RBM patch](https://www.nexusmods.com/mountandblade2bannerlord/mods/5861?tab=files&file_id=37349)  handeld like a mod    
-[Barbary Pirates](https://drive.google.com/file/d/1WQHswy_VSrTt0kkaf7LApa7Tua03kcRB/view?usp=sharing) not required, but i fixed it for Lemmy's new map update  
+[Barbary Pirates](https://drive.google.com/file/d/1UhZvRAPouOVvIjcZMP5A7JqVyzW9herg/view?usp=share_link) not required, but i fixed it for Lemmy's new map update  
 ***************************************************************************************************   
 [AD1259 OPTIONAL FILES](https://www.nexusmods.com/mountandblade2bannerlord/mods/4885?tab=files&file_id=34834)   
 Drag the contents of the music folder into \Mount Blade II Bannerlord\music and don't forget to backup your soundtrack.xml  
