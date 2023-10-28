@@ -13,7 +13,7 @@
 
 
 
-[Harmony](https://www.nexusmods.com/mountandblade2bannerlord/mods/2006?tab=files&file_id=35965) ignore the BLSE popup     
+[Harmony](https://www.nexusmods.com/mountandblade2bannerlord/mods/2006?tab=files&file_id=35965) ignore the BLSE pop up     
 [ButterLib](https://www.nexusmods.com/mountandblade2bannerlord/mods/2018?tab=files&file_id=36667)   
 [UIExtenderEx](https://www.nexusmods.com/mountandblade2bannerlord/mods/2102?tab=files&file_id=34201)  
 [Mod Configuration Menu](https://www.nexusmods.com/mountandblade2bannerlord/mods/612?tab=files&file_id=36733)  
@@ -26,17 +26,17 @@ StoryMode 1.1.6
 [BannerColorPersistence](https://www.nexusmods.com/mountandblade2bannerlord/mods/2637?tab=files&file_id=33822)  
 [RBM](https://www.nexusmods.com/mountandblade2bannerlord/mods/791?tab=files&file_id=36232)  
 [ExpandedArmouryBL](https://www.nexusmods.com/mountandblade2bannerlord/mods/5317?tab=files&file_id=34273)  
-[Expanded Bannerlord Armoury RBM patch](https://www.nexusmods.com/mountandblade2bannerlord/mods/5327?tab=files&file_id=35088) manual install overwrite EBA Items.xml    
+[EBA RBM patch](https://www.nexusmods.com/mountandblade2bannerlord/mods/5327?tab=files&file_id=35088) manual install `ExpandedArmouryBL\ModuleData\items.xml` overwrite Items.xml    
 [Swadian armoury](https://www.nexusmods.com/mountandblade2bannerlord/mods/2349?tab=files&file_id=37824)  
-[Swadian Armoury RBM patch](https://www.nexusmods.com/mountandblade2bannerlord/mods/3574?tab=files&file_id=37841) manual install overwrite Swadian Armoury Items.xml    
+[Swadian Armoury RBM patch](https://www.nexusmods.com/mountandblade2bannerlord/mods/3574?tab=files&file_id=37841) manual install  `swadianarmoury\ModuleData\items.xml`overwrite Items.xml    
 [OpenSourceArmory](https://www.nexusmods.com/mountandblade2bannerlord/mods/2829?tab=files&file_id=37814)  
 [OpenSourceWeaponry](https://www.nexusmods.com/mountandblade2bannerlord/mods/2829?tab=files&file_id=37816)   
 [OpenSourceSaddlery](https://www.nexusmods.com/mountandblade2bannerlord/mods/2829?tab=files&file_id=37815)   
 [OpenSourceArmory](https://www.nexusmods.com/mountandblade2bannerlord/mods/2829?tab=files&file_id=37817) RBM patch, handeld like a mod (3x)  
 ## YOUR MODS
-[SettlementIconRedesign](https://www.nexusmods.com/mountandblade2bannerlord/mods/2717?tab=files&file_id=33451) Drag the file 'mapConfig.json' into Modules\SettlementIconRedesign **-AD1259 Optional files-**    
+[SettlementIconRedesign](https://www.nexusmods.com/mountandblade2bannerlord/mods/2717?tab=files&file_id=33451) Drag the file `mapConfig.json` into `SettlementIconRedesign\mapConfig.json` **-AD1259 Optional files-**    
 [PocColor](https://www.nexusmods.com/mountandblade2bannerlord/mods/5595?tab=files&file_id=35800)    
-[PocColor config](https://drive.google.com/file/d/1a-MtjwsGu56-WXmRPZOaZoPY-vgE00gJ/view?usp=sharing) Drag the file 'config.json' into Modules\PocColor and replace  
+[PocColor config](https://drive.google.com/file/d/1a-MtjwsGu56-WXmRPZOaZoPY-vgE00gJ/view?usp=sharing) Drag the file `config.json` into `PocColor\config.json`  and replace  
 [CustomSpawnsAPI](https://www.nexusmods.com/mountandblade2bannerlord/mods/411?tab=files&file_id=34612)  
 [EuropeLemmyProject](https://www.nexusmods.com/mountandblade2bannerlord/mods/3758?tab=files&file_id=37776)  
 [AD1259](https://www.nexusmods.com/mountandblade2bannerlord/mods/4885?tab=files&file_id=37825)   
