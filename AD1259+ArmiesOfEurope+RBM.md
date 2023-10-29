@@ -62,4 +62,4 @@ StoryMode 1.1.6
 Drag the contents of the music folder into \Mount Blade II Bannerlord\music and don't forget to backup your soundtrack.xml  
 
 ## THE END
-# [Knightfall](https://www.nexusmods.com/mountandblade2bannerlord/mods/5451) mod pack will all do this and more automatically.
+# [Knightfall](https://www.nexusmods.com/mountandblade2bannerlord/mods/5451) mod pack will do all of this and more automatically.
