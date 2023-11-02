@@ -45,7 +45,7 @@ StoryMode 1.1.6
 [SettlementIconRedesign](https://www.nexusmods.com/mountandblade2bannerlord/mods/2717?tab=files&file_id=33451) Drag the file `mapConfig.json` into `SettlementIconRedesign\mapConfig.json` **-AD1259 Optional files-**    
 <br/>
 [PocColor](https://www.nexusmods.com/mountandblade2bannerlord/mods/5595?tab=files&file_id=35800)    
-[PocColor config](https://drive.google.com/file/d/1a-MtjwsGu56-WXmRPZOaZoPY-vgE00gJ/view?usp=sharing) Drag the file `config.json` into `PocColor\config.json`  and replace  
+[PocColor config](https://drive.google.com/file/d/19lL4cLup1gfW_3f_qhIN-0_t9VMFyAK5/view) Drag the file `config.json` into `PocColor\config.json`  and replace  
 <br/>
 [CustomSpawnsAPI](https://www.nexusmods.com/mountandblade2bannerlord/mods/411?tab=files&file_id=34612)  
 [EuropeLemmyProject](https://www.nexusmods.com/mountandblade2bannerlord/mods/3758?tab=files&file_id=37776)  
