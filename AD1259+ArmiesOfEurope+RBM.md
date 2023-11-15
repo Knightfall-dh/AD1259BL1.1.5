@@ -14,7 +14,7 @@
 
 
 [Harmony](https://www.nexusmods.com/mountandblade2bannerlord/mods/2006?tab=files&file_id=35965) ignore the BLSE pop up     
-[ButterLib](https://www.nexusmods.com/mountandblade2bannerlord/mods/2018?tab=files&file_id=36667)   
+[ButterLib](https://www.nexusmods.com/mountandblade2bannerlord/mods/2018?tab=files&file_id=38360)   
 [UIExtenderEx](https://www.nexusmods.com/mountandblade2bannerlord/mods/2102?tab=files&file_id=34201)  
 [Mod Configuration Menu](https://www.nexusmods.com/mountandblade2bannerlord/mods/612?tab=files&file_id=36733)  
 Native 1.1.6   
@@ -47,7 +47,7 @@ StoryMode 1.1.6
 [PocColor](https://www.nexusmods.com/mountandblade2bannerlord/mods/5595?tab=files&file_id=35800)    
 [PocColor config](https://drive.google.com/file/d/19lL4cLup1gfW_3f_qhIN-0_t9VMFyAK5/view) Drag the file `config.json` into `PocColor\config.json`  and replace  
 <br/>
-[CustomSpawnsAPI](https://www.nexusmods.com/mountandblade2bannerlord/mods/411?tab=files&file_id=34612)  
+[CustomSpawnsAPI](https://www.nexusmods.com/mountandblade2bannerlord/mods/411?tab=files&file_id=38022)  
 [EuropeLemmyProject](https://www.nexusmods.com/mountandblade2bannerlord/mods/3758?tab=files&file_id=37776)  
 <br/>
 [AD1259](https://www.nexusmods.com/mountandblade2bannerlord/mods/4885?tab=files&file_id=37825)   
