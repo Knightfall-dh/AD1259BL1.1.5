@@ -29,7 +29,7 @@ StoryMode 1.1.6
 <br/>
 [Vexillum](https://www.nexusmods.com/mountandblade2bannerlord/mods/3716?tab=files&file_id=24357)  
 [Banner Fix NO LOD](https://www.nexusmods.com/mountandblade2bannerlord/mods/4600?tab=files&file_id=36276)  
-[Raise your Banner](https://www.nexusmods.com/mountandblade2bannerlord/mods/4600?tab=files&file_id=36276)  
+[Raise your Banner](https://www.nexusmods.com/mountandblade2bannerlord/mods/3253?tab=files&file_id=36285)  
 <br/>
 [ExpandedArmouryBL](https://www.nexusmods.com/mountandblade2bannerlord/mods/5317?tab=files&file_id=34273)  
 [EBA RBM patch](https://www.nexusmods.com/mountandblade2bannerlord/mods/5327?tab=files&file_id=35088) manual install `ExpandedArmouryBL\ModuleData\items.xml` overwrite Items.xml   
