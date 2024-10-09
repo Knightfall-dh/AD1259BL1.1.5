@@ -25,6 +25,7 @@ Create an empty folder called "downloads" inside Knightfall like this `C:\modded
 Place nexus zip files into downloads example `Expanded Bannerlord Armoury-5317-V-1-1-1680453654.rar`
 #### Step 9
 Go to [Knightfall](https://www.nexusmods.com/mountandblade2bannerlord/mods/5451) and follow the installation video.
+You have to unzip the downloaded Nexus Knightfall file, that part isn't in the installation video.
 
 
 
