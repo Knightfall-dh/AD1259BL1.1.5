@@ -14,9 +14,9 @@ Delete or rename C:\Users\xxxxx\Documents\Mount and Blade II Bannerlord
 #### Step 3
 Delete C:\ProgramData\Mount and Blade II Bannerlord
 #### Step 4
-Reinstall bannerlord / not opted into beta
+Reinstall Bannerlord / not opted into beta
 #### Step 5
-Start bannerlord and enter the main menu
+Start Bannerlord and enter the main menu
 #### Step 6
 Create an empty folder called "Knightfall" on your root level of your drive like `C:\moddedgames\Knightfall`
 #### Step 7
